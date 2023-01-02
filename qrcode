@@ -1,5 +1,5 @@
 # QR-CODE-PROJECT
-I made a QR-CODE  to access the insta-gram profile
+#I made a QR-CODE  to access the insta-gram profile
 import qrcode
 from PIL import Image
 QR=qrcode.QRCode(version=1,
